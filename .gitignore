@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter notebooks
+*.ipynb
+
+# large data file
+data/processed/mmr_long.csv
+
+# Original dataset
+unclean dataset/

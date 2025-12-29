@@ -1,0 +1,267 @@
+Country Code,country_name,min_year,max_year,n_years,n_obs,pct_missing
+ABW,Aruba,1960,2024,65,0,1.0
+AFE,Africa Eastern and Southern,1960,2024,65,39,0.4
+AFG,Afghanistan,1960,2024,65,39,0.4
+AFW,Africa Western and Central,1960,2024,65,39,0.4
+AGO,Angola,1960,2024,65,39,0.4
+ALB,Albania,1960,2024,65,39,0.4
+AND,Andorra,1960,2024,65,39,0.4
+ARB,Arab World,1960,2024,65,39,0.4
+ARE,United Arab Emirates,1960,2024,65,39,0.4
+ARG,Argentina,1960,2024,65,39,0.4
+ARM,Armenia,1960,2024,65,39,0.4
+ASM,American Samoa,1960,2024,65,0,1.0
+ATG,Antigua and Barbuda,1960,2024,65,39,0.4
+AUS,Australia,1960,2024,65,39,0.4
+AUT,Austria,1960,2024,65,39,0.4
+AZE,Azerbaijan,1960,2024,65,39,0.4
+BDI,Burundi,1960,2024,65,39,0.4
+BEL,Belgium,1960,2024,65,39,0.4
+BEN,Benin,1960,2024,65,39,0.4
+BFA,Burkina Faso,1960,2024,65,39,0.4
+BGD,Bangladesh,1960,2024,65,39,0.4
+BGR,Bulgaria,1960,2024,65,39,0.4
+BHR,Bahrain,1960,2024,65,39,0.4
+BHS,"Bahamas, The",1960,2024,65,39,0.4
+BIH,Bosnia and Herzegovina,1960,2024,65,39,0.4
+BLR,Belarus,1960,2024,65,39,0.4
+BLZ,Belize,1960,2024,65,39,0.4
+BMU,Bermuda,1960,2024,65,0,1.0
+BOL,Bolivia,1960,2024,65,39,0.4
+BRA,Brazil,1960,2024,65,39,0.4
+BRB,Barbados,1960,2024,65,39,0.4
+BRN,Brunei Darussalam,1960,2024,65,39,0.4
+BTN,Bhutan,1960,2024,65,39,0.4
+BWA,Botswana,1960,2024,65,39,0.4
+CAF,Central African Republic,1960,2024,65,39,0.4
+CAN,Canada,1960,2024,65,39,0.4
+CEB,Central Europe and the Baltics,1960,2024,65,39,0.4
+CHE,Switzerland,1960,2024,65,39,0.4
+CHI,Channel Islands,1960,2024,65,0,1.0
+CHL,Chile,1960,2024,65,39,0.4
+CHN,China,1960,2024,65,39,0.4
+CIV,Cote d'Ivoire,1960,2024,65,39,0.4
+CMR,Cameroon,1960,2024,65,39,0.4
+COD,"Congo, Dem. Rep.",1960,2024,65,39,0.4
+COG,"Congo, Rep.",1960,2024,65,39,0.4
+COL,Colombia,1960,2024,65,39,0.4
+COM,Comoros,1960,2024,65,39,0.4
+CPV,Cabo Verde,1960,2024,65,39,0.4
+CRI,Costa Rica,1960,2024,65,39,0.4
+CSS,Caribbean small states,1960,2024,65,39,0.4
+CUB,Cuba,1960,2024,65,39,0.4
+CUW,Curacao,1960,2024,65,0,1.0
+CYM,Cayman Islands,1960,2024,65,0,1.0
+CYP,Cyprus,1960,2024,65,39,0.4
+CZE,Czechia,1960,2024,65,39,0.4
+DEU,Germany,1960,2024,65,39,0.4
+DJI,Djibouti,1960,2024,65,39,0.4
+DMA,Dominica,1960,2024,65,39,0.4
+DNK,Denmark,1960,2024,65,39,0.4
+DOM,Dominican Republic,1960,2024,65,39,0.4
+DZA,Algeria,1960,2024,65,39,0.4
+EAP,East Asia & Pacific (excluding high income),1960,2024,65,39,0.4
+EAR,Early-demographic dividend,1960,2024,65,39,0.4
+EAS,East Asia & Pacific,1960,2024,65,39,0.4
+ECA,Europe & Central Asia (excluding high income),1960,2024,65,39,0.4
+ECS,Europe & Central Asia,1960,2024,65,39,0.4
+ECU,Ecuador,1960,2024,65,39,0.4
+EGY,"Egypt, Arab Rep.",1960,2024,65,39,0.4
+EMU,Euro area,1960,2024,65,39,0.4
+ERI,Eritrea,1960,2024,65,39,0.4
+ESP,Spain,1960,2024,65,39,0.4
+EST,Estonia,1960,2024,65,39,0.4
+ETH,Ethiopia,1960,2024,65,39,0.4
+EUU,European Union,1960,2024,65,39,0.4
+FCS,Fragile and conflict affected situations,1960,2024,65,39,0.4
+FIN,Finland,1960,2024,65,39,0.4
+FJI,Fiji,1960,2024,65,39,0.4
+FRA,France,1960,2024,65,39,0.4
+FRO,Faroe Islands,1960,2024,65,0,1.0
+FSM,"Micronesia, Fed. Sts.",1960,2024,65,39,0.4
+GAB,Gabon,1960,2024,65,39,0.4
+GBR,United Kingdom,1960,2024,65,39,0.4
+GEO,Georgia,1960,2024,65,39,0.4
+GHA,Ghana,1960,2024,65,39,0.4
+GIB,Gibraltar,1960,2024,65,0,1.0
+GIN,Guinea,1960,2024,65,39,0.4
+GMB,"Gambia, The",1960,2024,65,39,0.4
+GNB,Guinea-Bissau,1960,2024,65,39,0.4
+GNQ,Equatorial Guinea,1960,2024,65,39,0.4
+GRC,Greece,1960,2024,65,39,0.4
+GRD,Grenada,1960,2024,65,39,0.4
+GRL,Greenland,1960,2024,65,0,1.0
+GTM,Guatemala,1960,2024,65,39,0.4
+GUM,Guam,1960,2024,65,0,1.0
+GUY,Guyana,1960,2024,65,39,0.4
+HIC,High income,1960,2024,65,39,0.4
+HKG,"Hong Kong SAR, China",1960,2024,65,0,1.0
+HND,Honduras,1960,2024,65,39,0.4
+HPC,Heavily indebted poor countries (HIPC),1960,2024,65,39,0.4
+HRV,Croatia,1960,2024,65,39,0.4
+HTI,Haiti,1960,2024,65,39,0.4
+HUN,Hungary,1960,2024,65,39,0.4
+IBD,IBRD only,1960,2024,65,39,0.4
+IBT,IDA & IBRD total,1960,2024,65,39,0.4
+IDA,IDA total,1960,2024,65,39,0.4
+IDB,IDA blend,1960,2024,65,39,0.4
+IDN,Indonesia,1960,2024,65,39,0.4
+IDX,IDA only,1960,2024,65,39,0.4
+IMN,Isle of Man,1960,2024,65,0,1.0
+IND,India,1960,2024,65,39,0.4
+INX,Not classified,1960,2024,65,0,1.0
+IRL,Ireland,1960,2024,65,39,0.4
+IRN,"Iran, Islamic Rep.",1960,2024,65,39,0.4
+IRQ,Iraq,1960,2024,65,39,0.4
+ISL,Iceland,1960,2024,65,39,0.4
+ISR,Israel,1960,2024,65,39,0.4
+ITA,Italy,1960,2024,65,39,0.4
+JAM,Jamaica,1960,2024,65,39,0.4
+JOR,Jordan,1960,2024,65,39,0.4
+JPN,Japan,1960,2024,65,39,0.4
+KAZ,Kazakhstan,1960,2024,65,39,0.4
+KEN,Kenya,1960,2024,65,39,0.4
+KGZ,Kyrgyz Republic,1960,2024,65,39,0.4
+KHM,Cambodia,1960,2024,65,39,0.4
+KIR,Kiribati,1960,2024,65,39,0.4
+KNA,St. Kitts and Nevis,1960,2024,65,39,0.4
+KOR,"Korea, Rep.",1960,2024,65,39,0.4
+KWT,Kuwait,1960,2024,65,39,0.4
+LAC,Latin America & Caribbean (excluding high income),1960,2024,65,39,0.4
+LAO,Lao PDR,1960,2024,65,39,0.4
+LBN,Lebanon,1960,2024,65,39,0.4
+LBR,Liberia,1960,2024,65,39,0.4
+LBY,Libya,1960,2024,65,39,0.4
+LCA,St. Lucia,1960,2024,65,39,0.4
+LCN,Latin America & Caribbean,1960,2024,65,39,0.4
+LDC,Least developed countries: UN classification,1960,2024,65,39,0.4
+LIC,Low income,1960,2024,65,39,0.4
+LIE,Liechtenstein,1960,2024,65,0,1.0
+LKA,Sri Lanka,1960,2024,65,39,0.4
+LMC,Lower middle income,1960,2024,65,39,0.4
+LMY,Low & middle income,1960,2024,65,39,0.4
+LSO,Lesotho,1960,2024,65,39,0.4
+LTE,Late-demographic dividend,1960,2024,65,39,0.4
+LTU,Lithuania,1960,2024,65,39,0.4
+LUX,Luxembourg,1960,2024,65,39,0.4
+LVA,Latvia,1960,2024,65,39,0.4
+MAC,"Macao SAR, China",1960,2024,65,0,1.0
+MAF,St. Martin (French part),1960,2024,65,0,1.0
+MAR,Morocco,1960,2024,65,39,0.4
+MCO,Monaco,1960,2024,65,39,0.4
+MDA,Moldova,1960,2024,65,39,0.4
+MDG,Madagascar,1960,2024,65,39,0.4
+MDV,Maldives,1960,2024,65,39,0.4
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",1960,2024,65,39,0.4
+MEX,Mexico,1960,2024,65,39,0.4
+MHL,Marshall Islands,1960,2024,65,39,0.4
+MIC,Middle income,1960,2024,65,39,0.4
+MKD,North Macedonia,1960,2024,65,39,0.4
+MLI,Mali,1960,2024,65,39,0.4
+MLT,Malta,1960,2024,65,39,0.4
+MMR,Myanmar,1960,2024,65,39,0.4
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",1960,2024,65,39,0.4
+MNE,Montenegro,1960,2024,65,39,0.4
+MNG,Mongolia,1960,2024,65,39,0.4
+MNP,Northern Mariana Islands,1960,2024,65,0,1.0
+MOZ,Mozambique,1960,2024,65,39,0.4
+MRT,Mauritania,1960,2024,65,39,0.4
+MUS,Mauritius,1960,2024,65,39,0.4
+MWI,Malawi,1960,2024,65,39,0.4
+MYS,Malaysia,1960,2024,65,39,0.4
+NAC,North America,1960,2024,65,39,0.4
+NAM,Namibia,1960,2024,65,39,0.4
+NCL,New Caledonia,1960,2024,65,0,1.0
+NER,Niger,1960,2024,65,39,0.4
+NGA,Nigeria,1960,2024,65,39,0.4
+NIC,Nicaragua,1960,2024,65,39,0.4
+NLD,Netherlands,1960,2024,65,39,0.4
+NOR,Norway,1960,2024,65,39,0.4
+NPL,Nepal,1960,2024,65,39,0.4
+NRU,Nauru,1960,2024,65,39,0.4
+NZL,New Zealand,1960,2024,65,39,0.4
+OED,OECD members,1960,2024,65,39,0.4
+OMN,Oman,1960,2024,65,39,0.4
+OSS,Other small states,1960,2024,65,39,0.4
+PAK,Pakistan,1960,2024,65,39,0.4
+PAN,Panama,1960,2024,65,39,0.4
+PER,Peru,1960,2024,65,39,0.4
+PHL,Philippines,1960,2024,65,39,0.4
+PLW,Palau,1960,2024,65,39,0.4
+PNG,Papua New Guinea,1960,2024,65,39,0.4
+POL,Poland,1960,2024,65,39,0.4
+PRE,Pre-demographic dividend,1960,2024,65,39,0.4
+PRI,Puerto Rico (US),1960,2024,65,39,0.4
+PRK,"Korea, Dem. People's Rep.",1960,2024,65,39,0.4
+PRT,Portugal,1960,2024,65,39,0.4
+PRY,Paraguay,1960,2024,65,39,0.4
+PSE,West Bank and Gaza,1960,2024,65,39,0.4
+PSS,Pacific island small states,1960,2024,65,39,0.4
+PST,Post-demographic dividend,1960,2024,65,39,0.4
+PYF,French Polynesia,1960,2024,65,0,1.0
+QAT,Qatar,1960,2024,65,39,0.4
+ROU,Romania,1960,2024,65,39,0.4
+RUS,Russian Federation,1960,2024,65,39,0.4
+RWA,Rwanda,1960,2024,65,39,0.4
+SAS,South Asia,1960,2024,65,39,0.4
+SAU,Saudi Arabia,1960,2024,65,39,0.4
+SDN,Sudan,1960,2024,65,39,0.4
+SEN,Senegal,1960,2024,65,39,0.4
+SGP,Singapore,1960,2024,65,39,0.4
+SLB,Solomon Islands,1960,2024,65,39,0.4
+SLE,Sierra Leone,1960,2024,65,39,0.4
+SLV,El Salvador,1960,2024,65,39,0.4
+SMR,San Marino,1960,2024,65,39,0.4
+SOM,"Somalia, Fed. Rep.",1960,2024,65,39,0.4
+SRB,Serbia,1960,2024,65,39,0.4
+SSA,Sub-Saharan Africa (excluding high income),1960,2024,65,39,0.4
+SSD,South Sudan,1960,2024,65,39,0.4
+SSF,Sub-Saharan Africa,1960,2024,65,39,0.4
+SST,Small states,1960,2024,65,39,0.4
+STP,Sao Tome and Principe,1960,2024,65,39,0.4
+SUR,Suriname,1960,2024,65,39,0.4
+SVK,Slovak Republic,1960,2024,65,39,0.4
+SVN,Slovenia,1960,2024,65,39,0.4
+SWE,Sweden,1960,2024,65,39,0.4
+SWZ,Eswatini,1960,2024,65,39,0.4
+SXM,Sint Maarten (Dutch part),1960,2024,65,0,1.0
+SYC,Seychelles,1960,2024,65,39,0.4
+SYR,Syrian Arab Republic,1960,2024,65,39,0.4
+TCA,Turks and Caicos Islands,1960,2024,65,0,1.0
+TCD,Chad,1960,2024,65,39,0.4
+TEA,East Asia & Pacific (IDA & IBRD countries),1960,2024,65,39,0.4
+TEC,Europe & Central Asia (IDA & IBRD countries),1960,2024,65,39,0.4
+TGO,Togo,1960,2024,65,39,0.4
+THA,Thailand,1960,2024,65,39,0.4
+TJK,Tajikistan,1960,2024,65,39,0.4
+TKM,Turkmenistan,1960,2024,65,39,0.4
+TLA,Latin America & the Caribbean (IDA & IBRD countries),1960,2024,65,39,0.4
+TLS,Timor-Leste,1960,2024,65,39,0.4
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",1960,2024,65,39,0.4
+TON,Tonga,1960,2024,65,39,0.4
+TSA,South Asia (IDA & IBRD),1960,2024,65,39,0.4
+TSS,Sub-Saharan Africa (IDA & IBRD countries),1960,2024,65,39,0.4
+TTO,Trinidad and Tobago,1960,2024,65,39,0.4
+TUN,Tunisia,1960,2024,65,39,0.4
+TUR,Turkiye,1960,2024,65,39,0.4
+TUV,Tuvalu,1960,2024,65,39,0.4
+TZA,Tanzania,1960,2024,65,39,0.4
+UGA,Uganda,1960,2024,65,39,0.4
+UKR,Ukraine,1960,2024,65,39,0.4
+UMC,Upper middle income,1960,2024,65,39,0.4
+URY,Uruguay,1960,2024,65,39,0.4
+USA,United States,1960,2024,65,39,0.4
+UZB,Uzbekistan,1960,2024,65,39,0.4
+VCT,St. Vincent and the Grenadines,1960,2024,65,39,0.4
+VEN,"Venezuela, RB",1960,2024,65,39,0.4
+VGB,British Virgin Islands,1960,2024,65,0,1.0
+VIR,Virgin Islands (U.S.),1960,2024,65,0,1.0
+VNM,Viet Nam,1960,2024,65,39,0.4
+VUT,Vanuatu,1960,2024,65,39,0.4
+WLD,World,1960,2024,65,39,0.4
+WSM,Samoa,1960,2024,65,39,0.4
+XKX,Kosovo,1960,2024,65,0,1.0
+YEM,"Yemen, Rep.",1960,2024,65,39,0.4
+ZAF,South Africa,1960,2024,65,39,0.4
+ZMB,Zambia,1960,2024,65,39,0.4
+ZWE,Zimbabwe,1960,2024,65,39,0.4

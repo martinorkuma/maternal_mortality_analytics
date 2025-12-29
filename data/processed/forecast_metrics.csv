@@ -1,0 +1,2 @@
+cutoff_year,train_rows,test_rows,mae,rmse,test_year_min,test_year_max
+2017,7986,1210,15.485572619192734,36.344698072084746,2018,2022
